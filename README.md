@@ -1,5 +1,5 @@
 # Music Genre Classification
-Comparison of music genre classification with spectrogram input vs. raw audio input using 1D & 2D Convolutional Neural Networks.
+Comparison of music genre classification with spectrogram input vs. raw audio input using 1D & 2D Convolutional Neural Networks. In this experiment, only the first 20 seconds of each audio is used. Each audio samples is split into 10 parts of 2 seconds audio.
 
 ## Prerequisites
 ```
